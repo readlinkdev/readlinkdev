@@ -4,4 +4,4 @@
 
 ---
 
-*Always learning.*
+*Im always learning something new.*
