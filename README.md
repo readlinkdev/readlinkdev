@@ -4,7 +4,7 @@
 
 **Welcome to my GitHub 👋**
 
-*Warriors never lose; they only learn.*
+*If love builds castles, hate builds empires.*
 
 <br>
 
