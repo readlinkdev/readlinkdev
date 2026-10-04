@@ -4,7 +4,7 @@
 
 **Welcome to my GitHub 👋**
 
-*Always learning something new.*
+*Warriors never lose; they only learn.*
 
 <br>
 
