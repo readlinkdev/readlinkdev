@@ -4,8 +4,6 @@
 
 **Welcome to my GitHub 👋**
 
-*"If love builds castles, hate builds empires."*
-
 <br>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=readlinkdev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
